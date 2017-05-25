@@ -17,7 +17,7 @@
     "trailing-spaces.deleteModifiedLinesOnly": true,
     "editor.tabCompletion": true,
     "git.enabled": true,
-    "git.path": "C:\\Program Files\\Git\\bin",
+    "git.path": "C:\\Program Files\\Git\\bin\\git.exe",
     "workbench.colorTheme": "Tomorrow Night Blue",
     "projects.projectsLocation": "C:\\Users\\Devel\\workspace",
     "projects.showProjectNameInStatusBar": true,
@@ -27,8 +27,8 @@
     "workbench.welcome.enabled": false,
     "workbench.iconTheme": "file-icons-colourless",
     "php.suggest.basic": false,
-    "php.executablePath": "C:\\Users\\Devel\\Tools\\php7",
-    "php.validate.executablePath": "C:\\Users\\Devel\\Tools\\Desenv\\php7",
+    "php.executablePath": "C:\\Users\\Devel\\Tools\\php7\\php.exe",
+    "php.validate.executablePath": "C:\\Users\\Devel\\Tools\\Desenv\\php7\\php.exe",
     "beautify.language": {
         "js": {
             "type": [
@@ -57,10 +57,8 @@
     },
     "workbench.editor.enablePreview": false,
     "editor.wordWrap": "off",
-    "gitblame.statusBarMessageFormat": "Blame ${commit.hash_short,9} ${author.name} ( ${time.ago} )",
-    "gitblame.infoMessageFormat": "${commit.hash} ------ ${commit.summary}",
     "composer.enabled": true,
-    "composer.executablePath": "C:\\Users\\Devel\\Tools\\composer",
+    "composer.executablePath": "C:\\Users\\Devel\\Tools\\composer\\composer.bat",
     "workbench.editor.tabCloseButton": "left",
     "window.restoreFullscreen": true,
     "window.menuBarVisibility": "toggle",
