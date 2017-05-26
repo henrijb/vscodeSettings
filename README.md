@@ -1,6 +1,6 @@
 # Settings for PHP Developers
 
-This page is intended to help PHP developers use and take better advantage of this great tool called VS Code.
+This page is intended to help PHP developers use and take better advantage of this tool.
 
 ##List of extensions:
 
